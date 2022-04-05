@@ -1,0 +1,53 @@
+
+body{
+  background-color:#CBF49F;
+}
+
+h1 { text-align: center;
+  border: 5px solid blue;
+  border-radius: 10px;
+}
+
+
+.color{text-align: center;
+  font-family: sans-serif;
+  background-color:#F1F7BC;
+  padding-bottom: 40PX;
+
+}
+
+img{width: 10%;
+
+}
+.border{
+  border: 5px solid orange;
+  margin: 30px
+}
+
+.box{
+  height: 200px;
+  width: 500px;
+  background-color: blue;
+  position: relative;
+  left: 25px;
+
+
+}
+.footer{
+  background-color: yellow;
+  position: relative;
+  bottom: 5px;
+  width: 200px;
+}
+
+.right{
+  background-color: red;
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+
+}
+
+#texting{
+  padding-top: 90px;
+}
